@@ -1,6 +1,6 @@
 # watanabe3tipapa-node-testing
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-sjg3zq)
+[Edit on StackBlitz (missing)⚡️](https://stackblitz.com/edit/node-sjg3zq)
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/watanabe3tipapa-node-testing)
 
