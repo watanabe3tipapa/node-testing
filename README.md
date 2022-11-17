@@ -6,7 +6,7 @@
 
 ## Github Repo sync
 
-This project is linked to the Github repository.
+This project is linked to the Github repository. 
 It also serves as a validation of the development environment in Re:StartPC Action.
 
 ---
